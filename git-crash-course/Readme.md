@@ -1,6 +1,6 @@
 ## Commits
 
-## Branches
+## Branche
 
 ## Remotes
 
