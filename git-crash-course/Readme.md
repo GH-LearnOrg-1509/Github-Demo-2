@@ -2,8 +2,8 @@
 
 ## Branches
 
-## Stashing
-
 ## Remotes
+
+## Stashing
 
 ## Merging
